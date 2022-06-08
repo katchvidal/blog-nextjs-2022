@@ -25,7 +25,7 @@ export default function Home({ posts }) {
             Entradas de Blog
           </h1>
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-            {siteMetadata.description} { /** descripcion del Blog  */}
+            {siteMetadata.description} {/** descripcion del Blog  */}
           </p>
         </div>
         <ul className="divide-y divide-gray-200 dark:divide-gray-700">
